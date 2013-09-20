@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="basicSample_cs_p">
+</Property><Property Name="Solution File" Value="C:\Program Files\salesforce.com\AppExchange Developer Network\samples\Apex Developer Network\CSharp .Net\basicSample_cs_Partner 10.0\basicSample_cs_p.sln">
+</Property><Property Name="Date" Value="Monday, April 26, 2010">
+</Property><Property Name="Time" Value="19:17:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="basicSample_cs_p" Source="basicSample_cs_p.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="basicSample_cs_p" Source="basicSample_cs_p.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="basicSample_cs_p" Source="basicSample_cs_p.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
